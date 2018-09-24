@@ -13,6 +13,9 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.UnsupportedEncodingException;
 import java.util.*;
 
+/**
+ * gaowenhao
+ */
 @Controller
 public class AdminitorController {
 		@Autowired
